@@ -1,2 +1,2 @@
 # Game
-This is an app for playing jeopardy for Doctor Who.
+This is an app for playing Doctor Who themed Jeopardy.
